@@ -264,6 +264,16 @@ nav {
   width: 37%;
 }
 
+.results-text button
+{
+  background-color: rgb(226, 216, 216) !important;
+}
+
+.results-text button:hover
+{
+  color:#000 !important;
+}
+
 .results-text h4 {
   color: #fff;
   font-size: 40px;
